@@ -6,7 +6,7 @@
 
 - 😄 Disponibilité : Immédiate
 
-- 🌐 Vous trouverez mon portfolio ici ... <a href="" target="_blank"> amelieforgeard.fr </a>
+- 🌐 Vous trouverez mon portfolio ici ... <a href="https://amelieforgeard.fr/" target="_blank"> amelieforgeard.fr </a>
 
 - 📧 Contactez-moi : amelieforgeard@gmail.com
 
